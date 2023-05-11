@@ -1,0 +1,13 @@
+{
+    id: 5,
+    firstName: "john",
+    lastname: "doe",
+    quotes: [
+        {
+            id: 1,
+            content: "stuff"
+
+            }
+        }
+    ]
+}
